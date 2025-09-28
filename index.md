@@ -1,28 +1,50 @@
-# Fassahat Ullah Qureshi
-
-![Profile Picture](fassahat-profile-pic.jpg)
-
-Hi! I’m **Fassahat Qureshi** — Senior Data Engineer & Career Mentor.  
-I help professionals transition into data careers through **Emergi Mentors** and guide 150+ mentees worldwide.
-
+---
+layout: home
+title: "Fassahat Ullah Qureshi"
+subtitle: "Senior Data Engineer | Career Mentor | Microsoft Fabric Certified"
 ---
 
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/fassahatqureshi/)
-- [Emergi Mentors Profile](https://emergimentors.com.au/mentor-profile/fassahat-ullah-qureshi)
+![Profile Picture](/assets/images/profile.jpg){:style="border-radius:50%;width:200px;"}
+
+# 👋 Hi, I’m Fassahat
+
+I build **secure, scalable data architectures** for leading Australian companies and mentor 150+ professionals into data careers.  
+Currently a **Senior Data Engineer (NSW Department of Education)** and **Faculty @ Swinburne University**.
 
 ---
 
 ## 🚀 What I Do
-- Build secure, scalable data architectures for top Australian companies.  
-- Mentor career switchers, graduates, and migrants into data roles.  
-- Teach data science as Faculty @ Swinburne.  
+- 🔹 Design **end-to-end data pipelines** (Azure Synapse, Databricks, PySpark)  
+- 🔹 Develop **Power BI dashboards** for actionable insights  
+- 🔹 Mentor career switchers, graduates & skilled migrants through **Emergi Mentors**  
+
+[View My Resume →](/resume) | [See Projects →](/projects)
 
 ---
 
-## 📂 Resume
-[Download Resume (PDF)](Resume_Fassahat_Sep2025.pdf)
+## 📜 Certifications
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <div>
+    <img src="/assets/images/microsoft-fabric-data-engineer.png" width="150"><br>
+    <strong>Microsoft Fabric Data Engineer Associate</strong>
+  </div>
+  <div>
+    <img src="/assets/images/microsoft-fabric-analytics-engineer.png" width="150"><br>
+    <strong>Microsoft Fabric Analytics Engineer Associate</strong>
+  </div>
+</div>
 
 ---
 
-*This site is built with GitHub Pages.*
+## 📂 Featured Projects
+- ⚡ **Medallion Architecture Pipelines** – Improved data processing efficiency by 30%  
+- 📊 **Power BI Dashboards** – Designed analytics dashboards for government & healthcare  
+- 🔗 [See All Projects](/projects)  
+
+---
+
+## 🔗 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/fassahatqureshi/)  
+- [Emergi Mentors Profile](https://emergimentors.com.au/mentor-profile/fassahat-ullah-qureshi)  
+- [Download Resume (PDF)](/Profile.pdf)  
+

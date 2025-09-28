@@ -64,7 +64,7 @@ Steps you can replicate in **Power Query**:
 
 ---
 
-![ED Performance Dashboard](assets/images/dashboard1.jpg)
+![ED Performance Dashboard](../../assets/images/dashboard1.jpg)
 
 ## 📐 DAX Measures (Core KPIs)
 

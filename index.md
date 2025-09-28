@@ -21,7 +21,7 @@ I help professionals transition into data careers through **Emergi Mentors** and
 ---
 
 ## 📂 Resume
-[Download Resume (PDF)](Profile.pdf)
+[Download Resume (PDF)](Resume_Fassahat_Sep2025.pdf)
 
 ---
 

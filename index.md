@@ -4,7 +4,7 @@ title: "Fassahat Ullah Qureshi"
 ---
 
 <div style="text-align:center; margin-top:30px;">
-  <img src="/assets/images/profile.jpg" alt="Fassahat Ullah Qureshi" style="border-radius:50%; width:220px; box-shadow:0px 4px 15px rgba(0,0,0,0.2);">
+  <img src="/assets/images/fassahat-profile-pic.jpg" alt="Fassahat Ullah Qureshi" style="border-radius:50%; width:220px; box-shadow:0px 4px 15px rgba(0,0,0,0.2);">
   <h1 style="margin-top:20px;">Fassahat Ullah Qureshi</h1>
   <h3>Senior Data Engineer | Career Mentor | Microsoft Fabric Certified</h3>
   <p>Helping professionals transition into data careers while building secure, scalable architectures for top Australian companies.</p>

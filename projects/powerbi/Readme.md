@@ -17,7 +17,7 @@ What are the feedback trends and resolution performance?
 
 Which transactions are anomalous or high-risk?
 
-![Banking Analytics Dashboard](../assets/images/dashboard.jpg)
+![Banking Analytics Dashboard](../../assets/images/dashboard.jpg)
 
 🚀 Features
 Data Preparation (Power Query)

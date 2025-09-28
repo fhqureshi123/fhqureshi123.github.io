@@ -15,16 +15,26 @@ title: "Fassahat Ullah Qureshi"
 
 ## 📜 Certifications
 
-<div style="display:flex;justify-content:center;gap:50px;flex-wrap:wrap; margin-top:20px;">
-  <div style="text-align:center;">
-    <img src="/assets/images/microsoft-fabric-data-engineer.png" width="160"><br>
-    <strong>Microsoft Fabric Data Engineer Associate</strong>
+<div style="display:flex;gap:40px;flex-wrap:wrap;justify-content:center;margin-top:20px;">
+
+  <div style="text-align:center; border:1px solid #ddd; padding:15px; border-radius:8px; width:250px;">
+    <a href="/assets/certs/Microsoft_Fabric_Data_Engineer_Aug_2025.pdf" target="_blank" style="text-decoration:none;">
+      <h3>Microsoft Fabric Data Engineer</h3>
+      <p><em>Issued Aug 2025</em></p>
+      <p>Click to view PDF →</p>
+    </a>
   </div>
-  <div style="text-align:center;">
-    <img src="/assets/images/microsoft-fabric-analytics-engineer.png" width="160"><br>
-    <strong>Microsoft Fabric Analytics Engineer Associate</strong>
+
+  <div style="text-align:center; border:1px solid #ddd; padding:15px; border-radius:8px; width:250px;">
+    <a href="/assets/certs/Microsoft_Fabric_Analytics_Engineer_Aug_2025.pdf" target="_blank" style="text-decoration:none;">
+      <h3>Microsoft Fabric Analytics Engineer</h3>
+      <p><em>Issued Aug 2025</em></p>
+      <p>Click to view PDF →</p>
+    </a>
   </div>
+
 </div>
+
 
 ## 👨‍💻 About Me
 I pivoted from electrical engineering to data analytics, and today I’m a **Senior Data Engineer at NSW Department of Education** and a **Faculty member at Swinburne University**.  
